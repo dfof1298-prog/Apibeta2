@@ -7,3 +7,4 @@ pymongo==4.10.0
 psutil==6.1.0
 python-multipart==0.0.16
 requests==2.32.3
+flask
